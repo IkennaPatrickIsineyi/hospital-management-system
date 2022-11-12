@@ -1,0 +1,7 @@
+/hmsApp
+/lib-react-app
+/node_modules
+/patientimages
+/staffimages
+/config
+.env
